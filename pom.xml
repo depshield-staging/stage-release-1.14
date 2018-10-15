@@ -14,7 +14,7 @@
   <groupId>com.sonatype.source.defender</groupId>
   <artifactId>source-defender-stage-release</artifactId>
   <packaging>pom</packaging>
-  <version>1.13-SNAPSHOT</version>
+  <version>1.14-SNAPSHOT</version>
 
   <modules>
     <module>mod1</module>
